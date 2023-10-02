@@ -240,5 +240,3 @@ INSERT INTO ventaCompra.venta
         VALUES(1, 'P1001', 4, 300.00),
                 (1, 'P1002', 5, 200.00),
                 (1, 'P1003', 5, 700.00);
-
-INSERT INTO ventaCompra.venta VALUE
