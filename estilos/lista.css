@@ -1,0 +1,44 @@
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 150%;
+}
+.column{
+    width: 200%;
+    padding: 0px 10px;
+}
+column-4{
+    width: 70%;
+}
+column-5{
+    width: 30%;
+}
+column-3{
+    width: 100%;
+}
+h1.section_header{
+    font-size: 30px;
+    color: #09bb18;
+    border-bottom: 1px solid #ffd7e1;
+    padding-bottom: 11px;
+    padding: 10px;
+    border-left: 4px solid #17ff02;
+    margin-bottom: 15px;
+    
+}
+
+
+.users table, th , td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table th{
+    font-size: 25px;
+}
+table td{
+    font-size: 15px;
+}
+.users{
+    padding: 50px;
+}
